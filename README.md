@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nzeribe
 - 👀 I’m interested in learning, decentralised systems and cryptography.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently doing my freeCodeCamp certifications.
 - 💞️ I’m looking to collaborate on ... watch this space!
 - 📫 How to reach me by email: ikem@hey.com
 
